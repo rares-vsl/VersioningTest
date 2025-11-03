@@ -1,3 +1,17 @@
+## [2.1.0](https://github.com/rares-vsl/VersioningTest/compare/v2.0.0...2.1.0) (2025-11-03)
+
+### Features
+
+* new b ([0982d78](https://github.com/rares-vsl/VersioningTest/commit/0982d7872d9f85de442578cdcb43cc1f0088c24d))
+
+### Build and continuous integration
+
+* new action ([9ca28b4](https://github.com/rares-vsl/VersioningTest/commit/9ca28b4b5da44756c2b99535742c26db09782dae))
+
+### General maintenance
+
+* reuse conv com ([3adcd23](https://github.com/rares-vsl/VersioningTest/commit/3adcd23876168c2476d7fe7e877cd7bfc14f7dc0))
+
 ## [1.1.0](https://github.com/rares-vsl/VersioningTest/compare/1.0.0...1.1.0) (2025-11-03)
 
 ### Features
