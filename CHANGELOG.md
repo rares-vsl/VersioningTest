@@ -1,3 +1,13 @@
+## [0.2.1](https://github.com/rares-vsl/VersioningTest/compare/0.2.0...0.2.1) (2025-11-03)
+
+### Bug Fixes
+
+* correct a ([8c9999d](https://github.com/rares-vsl/VersioningTest/commit/8c9999dae78e28e201d980628b234bb320134658))
+
+### Refactoring
+
+* too many a ([9d2abe6](https://github.com/rares-vsl/VersioningTest/commit/9d2abe6ca48d6c8a70e0233bf005c629ac9b317d))
+
 ## [0.2.0](https://github.com/rares-vsl/VersioningTest/compare/0.1.0...0.2.0) (2025-11-03)
 
 ### Features
