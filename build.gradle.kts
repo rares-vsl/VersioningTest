@@ -4,3 +4,20 @@
  * This is a general purpose Gradle build.
  * Learn more about Gradle by exploring our Samples at https://docs.gradle.org/9.0.0/samples
  */
+
+import io.github.andreabrighi.gradle.gitsemver.conventionalcommit.ConventionalCommit
+
+plugins {
+    alias(libs.plugins.gitSemVer)
+}
+
+buildscript {
+    dependencies {
+        classpath("io.github.andreabrighi:conventional-commit-strategy-for-git-sensitive-semantic-versioning-gradle-plugin:1.0.15")
+    }
+}
+
+gitSemVer {
+    commitNameBasedUpdateStrategy(ConventionalCommit::semanticVersionUpdate)
+    minimumVersion.set("0.1.0")
+}
