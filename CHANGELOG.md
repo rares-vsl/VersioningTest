@@ -1,3 +1,13 @@
+## [1.1.0](https://github.com/rares-vsl/VersioningTest/compare/1.0.0...1.1.0) (2025-11-03)
+
+### Features
+
+* add b ([d7f59c8](https://github.com/rares-vsl/VersioningTest/commit/d7f59c8997abd9a591a33534e61debfa6a161b77))
+
+### Build and continuous integration
+
+* add semver ([291ca89](https://github.com/rares-vsl/VersioningTest/commit/291ca89047db7ea34f6103ff58158790e5a9ae4c))
+
 ## [1.0.0](https://github.com/rares-vsl/VersioningTest/compare/0.2.1...1.0.0) (2025-11-03)
 
 ### ⚠ BREAKING CHANGES
